@@ -1,4 +1,4 @@
-package com.hierway.vpline.utils;
+package com.xxxx.utils;
 
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.cloud.client.loadbalancer.LoadBalancerInterceptor;
