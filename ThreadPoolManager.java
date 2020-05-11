@@ -1,4 +1,4 @@
-package com.hierway.vpline.utils;
+package com.xxxx.utils;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
