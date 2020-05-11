@@ -1,4 +1,4 @@
-package com.hierway.vpline.utils;
+package com.xxxx.utils;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
