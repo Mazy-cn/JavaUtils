@@ -1,9 +1,9 @@
-package com.hierway.vpline.utils;
+package com.xxxx.utils;
 
-import com.hierway.utility.api.result.ApiException;
-import com.hierway.utility.api.result.ResultCode;
-import com.hierway.vpline.dao.dataservice.mybatis.NestedCategoryMapper;
-import com.hierway.vpline.log.MyLogger;
+import com.xxxx.result.ApiException;
+import com.xxxx.result.ResultCode;
+import com.xxxx.mybatis.NestedCategoryMapper;
+import com.xxxx.log.MyLogger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.annotation.Transactional;
