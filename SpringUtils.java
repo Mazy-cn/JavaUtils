@@ -1,4 +1,4 @@
-package com.hierway.vpline.utils;
+package com.xxxx.utils;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
